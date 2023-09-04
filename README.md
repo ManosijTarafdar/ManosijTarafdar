@@ -1,16 +1,16 @@
 Hi 👋 My name is Manosij Tarafdar
 =================================
 
-CSE @MCKVIE
+Associate Systems Engineer @IBM
 -----------
 
-I've been learning to code for over 3 years. I started with competitive programming and C++. Later I found my interest in DBMS and Backend Development. I'm currently passionate towards becoming a Full Stack Developer .
+I'm currently a Application Developer in IBM , learning and upskilling in JRS DevOps - Releasing , DevOps , Tracing and Monitoring Industry Applications.
+I'm Adaptive and Collaborative to my team and to IBM.
 
-* 🌍  I'm based in Kolkata
+* 🌍  I'm based from Kolkata , currently in Bangalore
 * ✉️  You can contact me at [manosijindia@gmail.com](mailto:manosijindia@gmail.com)
-* 🚀  I'm currently working on [verifID](http://github.com/ManosijTarafdar/verifID_on_heroku)
-* 🧠  I'm learning Full Stack Development
-* 🤝  I'm open to collaborating on New Age Projects
+* 🚀  I'm currently working at IBM
+* 🧠  I'm a Application Developer - DevOps
 
 ### Skills
 
